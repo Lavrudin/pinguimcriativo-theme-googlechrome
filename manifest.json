@@ -1,0 +1,97 @@
+{
+    "manifest_version": 3,
+    "version": "1.0.0",
+    "name": "Pinguim Criativo: Theme for Chrome",
+    "description": "A simple theme using a Pinguim Criativo color palette.",
+    "icons": {
+        "16": "images/icon16.png",
+        "48": "images/icon48.png",
+        "128": "images/icon128.png"
+    },
+    "theme": {
+        "images": {
+            "theme_frame": "images/frame.png",
+            "theme_toolbar": "images/toolbar.png",
+            "theme_ntp_background": "images/background.png",
+            "theme_tab_background": "images/tab.png"
+        },
+        "colors": {
+            "ntp_link": [
+                255,
+                255,
+                255
+            ],
+            "ntp_text": [
+                255,
+                255,
+                255
+            ],
+            "ntp_section_link": [
+                255,
+                255,
+                255
+            ],
+            "ntp_section_text": [
+                255,
+                255,
+                255
+            ],
+            "ntp_background": [
+                40,
+                48,
+                61
+            ],
+            "frame": [
+                40,
+                48,
+                61
+            ],
+            "toolbar": [
+                40,
+                48,
+                61
+            ],
+            "tab_text": [
+                72,
+                169,
+                166
+            ],
+            "tab_background_text": [
+                231,
+                233,
+                235
+            ],
+            "bookmark_text": [
+                255,
+                255,
+                255
+            ],
+            "button_background": [
+                255,
+                255,
+                255
+            ]
+        },
+        "tints": {
+            "buttons": [
+                72,
+                169,
+                166
+            ],
+            "frame_inactive": [
+                40,
+                48,
+                61
+            ],
+            "frame_incognito_inactive": [
+                40,
+                48,
+                61
+            ]
+        },
+        "properties": {
+            "ntp_background_alignment": "bottom",
+            "ntp_background_repeat": "no-repeat"
+        }
+    }
+}
