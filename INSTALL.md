@@ -20,31 +20,6 @@
 
 1. Install theme through the [Google Chrome Store](https://chrome.google.com/webstore/detail/pinguim-criativo-theme-fo/iodcoanhiikmojkcnbjkijblmfjckhlh?hl=pt-br).
 
-#### 1. Install using the hyper CLI (recommended)
-
-```shell
-$ hyper i hyper-pinguimcriativo-theme
-```
-
-#### 2. Install using config file
-
-Add `hyper-pinguimcriativo-theme` to the plugins list in your `~/.hyper.js` config file.
-
-```shell
-plugins: [
-  'hyper-pinguimcriativo-theme'
-]
-```
-
-<br>
-
-#### Activating theme
-
-After installing it, you need to activate the theme. You can do so by following these steps:
-
-1.  Start Hyper;
-2.  Go to `View -> Full Reload` or pressing `Ctrl + Shift + F5`.
-
 <br>
 
 # Maintainer
